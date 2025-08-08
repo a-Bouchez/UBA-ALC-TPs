@@ -13,15 +13,12 @@ El objetivo del repositorio es compartir resoluciones propias, ideas y código �
 
 ---
 
-## Contenido
+## Contenido del repositorio
 
-ALC-Talleres-TPs/
-├── TP1/ ← Navegación en grafos - Noche de los Museos
-├── TP2/ ← Detección de comunidades - Laplaciano y modularidad
-├── Talleres/ ← Actividades complementarias y exploratorias
-├── Recursos/ ← Scripts auxiliares y datasets
-└── README.md ← Este archivo
-
+- `TP1/`: Navegación en grafos - Noche de los Museos
+- `TP2/`: Detección de comunidades - Laplaciano y modularidad
+- `Talleres/`: Resolución de talleres prácticos
+- `README.md`: Este archivo
 
 Todos los trabajos fueron realizados en Python, utilizando herramientas como:
 
@@ -43,7 +40,7 @@ Quiero agradecer especialmente a las personas que hicieron más amena y clara es
 
 ## Notas finales
 
-Este repositorio no pretende reemplazar las clases ni los materiales oficiales. Fue creado como complemento y apoyo para entender y aplicar los conceptos computacionales del curso, con ejemplos prácticos y visuales.
+Este repositorio no pretende reemplazar las clases ni los materiales oficiales. Fue creado con el fin de ayudar a alguien que lo necesite.
 
 Si encontrás errores, sugerencias o tenés ideas para mejorar alguna parte, ¡estás más que invitado/a a colaborar!
 
